@@ -24,4 +24,40 @@ img {
 p {
  padding: 10px;   
 }
-/***** Section *****/  /***** End Section *****/
+
+aside {
+width: 500px;
+margin: 5px;
+border: 30px;
+padding: 20px;
+background-color: burlywood;
+color: #000;
+text-align: center;
+}
+
+aside img{
+    width: 200px;
+    height: auto;
+}
+
+main img{
+    width: 150px;
+    height: auto;
+}
+
+p{
+    padding: 0;
+}
+
+footer{
+    margin-top: 20px;
+    border-top: 2px solid #000;
+    text-align: center;
+}
+
+
+
+
+
+
+/***** section *****/  /***** End Section *****/
