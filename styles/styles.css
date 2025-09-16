@@ -1,6 +1,18 @@
+
+:root {
+--heading-background-color: #d3d3d3;
+--heading-text-color: #aaa;
+--padding: 1rem;
+--border: 1px solid rgb(0 0 0 / 0.5)
+}
+
+
+
+
+
 nav {
-    background-color: darkblue;
-    padding: 10px;
+    background-color: var(--heading-background-color);
+    padding: var(--padding);
 }
 
 nav a {
